@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ona de Gibert Bonet / Welcome to my personal page!"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ona de Gibert Bonet"
+description              : &description "Research engineer @ Barcelona Supercomputing Center"
+url                      : https://onadegibert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "onadegibert/onadegibert.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ona de Gibert Bonet"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a researcher at the Barcelona Supercomputing Center in the Machine Translation group, where I contribute to the development of machine translation technologies for minority languages. I hold a Bachelor's degree in Modern Languages and Literatures from the University of Barcelona and a Master's degree in Language Analysis and Processing from the University of the Basque Country. My experience in translation ranges from the implementation of translation in the corporate world to researching new methods in my current position. I am also currently an associate lecturer at two universities, Pompeu Fabra University and the Autonomous Unviersity of Barcelona."
+  location         : "Barcelona, Catalonia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=OGIBSbEAAAAJ&hl=ca&authuser=5"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Ona-De-Gibert-Bonet-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "onadegibert"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/onadegibertbonet/"
+  orcid            : "https://orcid.org/0000-0002-7163-4807"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/OnadeGibert"
   vine             :
   weibo            :
   xing             :
