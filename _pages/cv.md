@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Modern Languages and Literature (German and English studies), University of Barcelona, 2016
+* M.S. in Language and Analysis Processing, University of the Basque Country, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2020 - Present: Language Data Engineer
+  * Barcelona Supercomputing Center
+  * Research Engineer in the Text Mining Unit within the Machine Translation group, where I contribute to the development of machine translation technologies for minority languages.
+
+* Jan 2019 - May 2020: Computational Linguist
+  * Inbenta
+  * Lead of the Natural Language Research team in charge of investigating automatic disambiguation methods. Development of ontology data for Semantic Search based services.
+  * Supervisor: Caterina Balcells
+
+* Mar 2018 - Jul 2018: Internship in NLP
+  * Vicomtech
+  * Internship in collaboration with the University of the Basque Country doing research in the field of Sentiment Analysis and Information Extraction.
+  * Supervisor: Montserrat Cuadros
+
+* Mar 2017 - Feb 2018: Internship in MT
+  * MondragonLingua
+  * Internship in collaboration with the University of the Basque Cointry working as a Computational Linguist in the field of Machine Translation, combining statistical machine translation and translation memories for the improvement of translation quality
+  * Supervisor: Nora Aranberri
   
+Research Interest
+======
+* Machine Translation
+* Low-resource Languages
+* Cross-lingual Transfer Learning
+* Data Curation
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytic thinking
+* Creative problem solving
+* Conference presentations
+* University teaching
+* Scientiﬁc writing
+* Organization of academic events
 
 Publications
 ======
@@ -56,4 +72,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of Young IT Girls, a non-lucrative association to promote science among young girls.
+* Member of Inspira STEAM, a non-lucrative association to promote science among young girls.
+
+Awards
+======
+* Grant for Master’s Degree University of the Basque Country, 2016 - 2018
+* Extraordinary Degree Award University of Barcelona, 2016
+* Grant for Bachelor’s Degree Spanish Ministry of Education, 2015
+* University Aid Award (Awarded to the 500 best university admission grades) by Catalunya-La Pedrera Foundation, 2012
