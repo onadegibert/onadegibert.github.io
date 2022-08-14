@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ona de Gibert Bonet / Welcome to my personal page!"
+title                    : "Welcome to my personal page!"
 title_separator          : "-"
 name                     : &name "Ona de Gibert Bonet"
 description              : &description "Research engineer @ Barcelona Supercomputing Center"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OGIBSbEAAAAJ&hl=ca&authuser=5"
-  email            :
+  email            : "ona.degibert@bsc.es"
   researchgate     :  "https://www.researchgate.net/profile/Ona-De-Gibert-Bonet-2"
   uri              :
   bitbucket        :
