@@ -1,0 +1,13 @@
+---
+title: "Estrategia multidimensional para la selección de candidatos de traducción automática para posedición"
+collection: publications
+permalink: /publication/2019-postediting-2019
+date: 2019
+venue: 'Linguamática 11'
+paperurl: 'https://ixa.si.ehu.eus/sites/default/files/dokumentuak/12955/document.pdf'
+citation: 'Aranberri, N., &amp; de Gibert, O. (2019). Estrategia multidimensional para la selección de candidatos de traducción automática para posedición. Linguamática, 11(2), 3-16.'
+---
+
+<a href='https://ixa.si.ehu.eus/sites/default/files/dokumentuak/12955/document.pdf'>Download paper here</a>
+
+Recommended citation: Aranberri, N., & de Gibert, O. (2019). Estrategia multidimensional para la selección de candidatos de traducción automática para posedición. Linguamática, 11(2), 3-16.
