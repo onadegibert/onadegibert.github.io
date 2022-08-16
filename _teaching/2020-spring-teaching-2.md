@@ -1,5 +1,5 @@
 ---
-title: "Bootcamp Instructor"
+title: "Bootcamp Instructor at AllWomen"
 collection: teaching
 type: "Bootcamp"
 permalink: /teaching/2020-spring-teaching-2
