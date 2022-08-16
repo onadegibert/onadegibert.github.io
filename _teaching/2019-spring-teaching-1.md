@@ -1,5 +1,5 @@
 ---
-title: "University Teacher"
+title: "University Teacher at UOC"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-spring-teaching-1
