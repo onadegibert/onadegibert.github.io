@@ -1,5 +1,5 @@
 ---
-title: "University Teacher"
+title: "University Teacher at UAB"
 collection: teaching
 type: "Postgraduate Course"
 permalink: /teaching/2022-spring-teaching-4
