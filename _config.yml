@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ona de Gibert Bonet"
 title_separator          : "-"
 name                     : &name "Ona de Gibert Bonet"
-description              : &description "Research engineer @ Barcelona Supercomputing Center"
+description              : &description "PhD Student @ University of Helsinki"
 url                      : https://onadegibert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "onadegibert/onadegibert.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ona de Gibert Bonet"
   avatar           : "profile.png"
-  bio              : "Research Engineer @ Barcelona Supercomputing Center"
-  location         : "Barcelona, Catalonia"
+  bio              : "PhD Student @ University of Helsinki"
+  location         : "Helsinki, Finland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OGIBSbEAAAAJ&hl=ca&authuser=5"
-  email            : "odegiber@gmail.com"
+  email            : "ona.degibert@helsinki.fi"
   researchgate     :  "https://www.researchgate.net/profile/Ona-De-Gibert-Bonet-2"
   uri              :
   bitbucket        :
